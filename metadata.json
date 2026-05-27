@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio Web Interaktif",
+  "description": "Portofolio developer web yang modern, interaktif menggunakan tema gelap dan animasi efek mengetik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
